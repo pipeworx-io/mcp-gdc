@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-gdc",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "NCI Genomic Data Commons (GDC) MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-7b63dbb769421d3d4265113f404fca2c5c788beeffafec495b2dc4b03b93d324",
-    "sourceCommit": "76aa8f5d9b5dc2f665563030647c68e661478864"
+    "sourceHash": "v1-7c2a143d4129daf9a09203d2ec9091a955924e4f0353a286f5bea7e2a0fd2125",
+    "sourceCommit": "91681e9a4a137fa0051d58e32f38c64b6334af5c"
   }
 }
